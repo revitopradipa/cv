@@ -57,8 +57,9 @@ body {
 
 .title {
 	font-style: italic;
-	font-size: 1.4rem;
+	font-size: 1.3rem;
 	font-family: serif;
+	margin-right: 400px;
 }
 
 .shortcut {
@@ -69,7 +70,7 @@ body {
 .menu {
 	font-family: 'Nunito', sans-serif;
 	font-size: 85%;
-	padding: 0 15px 0;
+	padding: 0 10px 0;
 }
 
 a {
