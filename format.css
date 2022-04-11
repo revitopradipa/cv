@@ -25,7 +25,9 @@ body {
 }
 
 .contactme {
-	font-family: serif;
+	margin-top: 50px;
+	font-family: 'Nunito', sans-serif;
+	font-size: 120%;
 }
 
 .contact-btn {
@@ -59,7 +61,7 @@ body {
 .title {
 	font-style: italic;
 	font-size: 1.3rem;
-	font-family: serif;
+	font-family: 'Nunito', sans-serif;
 	margin-right: 400px;
 }
 
@@ -117,5 +119,14 @@ a {
 }
 
 p, li {
-	line-height: 200%;
+	line-height: 175%;
+	font-family: 'Nunito', sans-serif;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Nunito', sans-serif;
+}
+
+h3 {
+	line-height: 0;
 }
