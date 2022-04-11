@@ -48,6 +48,7 @@ body {
 .cv {
 	position: absolute;
 	left: 400px;
+	width: 950px;
 }
 
 .topBar {
@@ -63,7 +64,7 @@ body {
 
 .shortcut {
 	float: right;
-	padding-left: 400px;
+	padding-right: 50px;
 }
 
 .menu {
