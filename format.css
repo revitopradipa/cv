@@ -1,6 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
+	background-color: #736773;
 }
 
 
@@ -8,7 +9,8 @@ body {
 	position: fixed;
 	width: 400px;
 	height: 100vh;
-	background-color: #E05C5C;
+	background-color: #736B67;
+	border-right: 1px solid black;
 }
 
 .photocontact {
@@ -29,8 +31,7 @@ body {
 .contact-btn {
 	width: 50%;
 	background-color: white;
-	border-color: black;
-	border-width: 2px;
+	border: 2px solid black;
 	border-radius: 20px;
 	margin-bottom: 12px;
 	font-size: 1.1rem;
@@ -75,37 +76,43 @@ body {
 
 a {
 	text-decoration: none;
-	color: black;
+	color: white;
 }
 
 #myProfile {
+	color: white;
 	padding-top: 100px;
 	padding-left: 100px;
 }
 
 #about {
+	color: white;
 	padding-top: 100px;
 	padding-left: 100px;
 	padding-right: 100px;
 }
 
 #experience {
+	color: white;
 	padding-top: 250px;
 	padding-left: 100px;
 }
 
 #achievements {
+	color: white;
 	padding-top: 250px;
 	padding-left: 100px;
 }
 
 #contact {
+	color: white;
 	padding-top: 250px;
 	padding-left: 100px;
 }
 
 #footer {
-	padding-top: 250px;
+	color: white;
+	padding-top: 150px;
 	text-align: center;
 }
 
